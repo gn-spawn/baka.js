@@ -1,2 +1,3 @@
 # baka.js
-JavaScript users are stupid
+JavaScript users are all equally **stupid**.  
+**Absolutely**.
